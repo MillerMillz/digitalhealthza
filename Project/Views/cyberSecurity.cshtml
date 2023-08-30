@@ -1,0 +1,193 @@
+﻿@{
+        ViewData["Title"] = "cyber security";
+}
+
+<main class="page-wrapper">
+
+    <nav class="container pt-4 mt-lg-3" aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0">
+            <li class="breadcrumb-item">
+                <a href="index.html"><i class="bx bx-home-alt fs-lg me-1"></i>Home</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="blog-grid-with-sidebar.html">Blog</a>
+            </li>
+            <li class="breadcrumb-item active" aria-current="page">Podcast</li>
+        </ol>
+    </nav>
+
+
+    <!-- Post title + Meta  -->
+    <section class="container mt-4 mb-5 pt-2 pb-lg-5">
+        <div class="row gy-4">
+            <div class="col-lg-7 col-md-6">
+                <img src="~/Landing/assets/img/cyber security.jpg" alt="Cover" class="rounded-3">
+            </div>
+            <div class="col-lg-5 col-md-6">
+                <div class="ms-xl-5 ms-lg-4 ps-xxl-34">
+
+                    <h1 class="display-5 pb-md-3">Why is cyber security important?</h1>
+
+                    <p class="mb-0 fs-lg">Did you know that your health information can be even more attractive to cyber criminals than your financial details?</p>
+                    <p>You can take a few simple steps to stay private and safe when you’re online. These steps include using passwords that are hard to crack, keeping your software up to date and staying aware that your online activity can leave a footprint.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Post content -->
+    <section class="container mb-5 pb-lg-5">
+        <h1>How is your health information kept safe?</h1>
+        <p>Our Cyber Security team works with the healthcare sector to help identify ways to keep their information secure.</p>
+        <p>To keep Australia ahead of possible security threats, our Cyber Security team provides information and guidance for both individuals and the healthcare sector.</p>
+    </section>
+
+    <section class="pb-5 mb-2 mb-md-4 mb-lg-5" style="padding-top: 80px;">
+        <div class="bg-secondary pb-lg-4 pb-xl-5">
+            <div class="container pb-4 pb-md-5">
+                <div class="row">
+                    <div class="col-xl-5 col-lg-6" style="margin-top: -80px;">
+
+                        <!-- Swiper tabs -->
+                        <div class="swiper-tabs mx-auto" style="max-width: 526px;">
+                            <div id="image-1" class="swiper-tab active">
+                                <img src="~/Landing/assets/img/digital footprint.jpg" class="rounded-3" alt="Image">
+                            </div>
+                            <div id="image-2" class="swiper-tab">
+                                <img src="~/Landing/assets/img/password.jpg" class="rounded-3" alt="Image">
+                            </div>
+                            <div id="image-3" class="swiper-tab">
+                                <img src="~/Landing/assets/img/medical Record.jpg" class="rounded-3" alt="Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-6 offset-xl-1 pt-2 pt-md-4 pt-lg-5 mt-4">
+
+                        <!-- Slider prev/next buttons -->
+                        <div class="d-flex justify-content-center justify-content-lg-start pb-3 mb-3">
+                            <button type="button" id="prev" class="btn btn-prev btn-icon btn-sm me-2">
+                                <i class="bx bx-chevron-left"></i>
+                            </button>
+                            <button type="button" id="next" class="btn btn-next btn-icon btn-sm ms-2">
+                                <i class="bx bx-chevron-right"></i>
+                            </button>
+                        </div>
+
+                        <!-- Swiper slider -->
+                        <div class="swiper mx-0 mb-md-n2 mb-xxl-n3" data-swiper-options='{
+                  "spaceBetween": 30,
+                  "loop": true,
+                  "tabs": true,
+                  "navigation": {
+                    "prevEl": "#prev",
+                    "nextEl": "#next"
+                  }
+                }'>
+                            <div class="swiper-wrapper text-center text-lg-start">
+
+                                <!-- Item -->
+                                <div class="swiper-slide pb-4" data-swiper-tab="#image-1">
+                                    <h1>Digital footprint</h1>
+                                    <p>As you move around the internet or use your digital devices, you leave behind a trail of information. This is called your digital footprint. It includes browsing, paying online, and what you share on social media.</p>
+                                    <p>It’s possible to manage your digital footprint. You can do this by finding out what information exists about you online. This means you can use the Internet more safely.</p>
+
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Think before you post
+                                        </li>
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Find your digital footprint
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Decide what to update or remove
+                                        </li>
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Check your privacy settings
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Clear your browsing history
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <!-- Item -->
+                                <div class="swiper-slide pb-4" data-swiper-tab="#image-2">
+                                    <h1>Passwords</h1>
+                                    <p>Your passwords are the key to all your information. They’re the first line of defence for anything you sign in to, for both your work and personal lives.</p>
+                                    <p>The passwords you choose are important. Ideally, they should be long and complex – making them hard for cyber criminals to crack. And don’t forget to use a different password for each account.</p>
+
+
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Use upper, lower case, numbers and special characters
+                                        </li>
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Passphrases are harder to crack
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Don’t use well-known or easy to guess passwords
+                                        </li>
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Password managers can store multiple passwords
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Multi-factor authentication uses more than just a password
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <!-- Item -->
+                                <div class="swiper-slide pb-4" data-swiper-tab="#image-3">
+                                    <h2 class="h1 mb-4">Electronic <span class="text-success">My Health Record</span> </h2>
+                                    <p>My Health Record is protected by a firewall, secure sign in process, audit logging and Australian Government legislation. You can also help to maintain the security on your account.</p>
+                                    <p>Strong passwords, up-to-date software, and checking privacy settings on your accounts and devices are all good ways to keep your information safe. And if you’re worried about the information others might be able to see on My Health Record, you can set your own privacy and access controls there too.</p>
+
+                                    <ul class="list-unstyled mb-0">
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Use a strong passphrase and secret question
+                                        </li>
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Review your My Health Record access log
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Always manually enter your sign in details
+                                        </li>
+                                        <li class="d-flex mb-2">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Don’t click on links in emails to sign in
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Set strong privacy settings on your accounts and devices
+                                        </li>
+                                        <li class="d-flex">
+                                            <i class="bx bx-check text-primary lead me-2"></i>
+                                            Turn on automatic software updates
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>   
+
+

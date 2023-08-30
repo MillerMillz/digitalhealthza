@@ -1,0 +1,130 @@
+﻿@model List<DisplayPrescriptionViewModel>;
+@{
+    Layout = "PharmacistLayout";
+}
+
+
+<div>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Patient Prescriptions</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Register</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <form method="post">
+            <div class="card">
+                <div class="card-header">
+
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+
+                    <table class="table table-striped projects">
+                        <thead>
+                            <tr>
+                                <th style="width: 1%">
+
+                                </th>
+                                <th style="width: 20%">
+                                    Prescribing Dr
+                                </th>
+                                <th style="width: 20%">
+                                    Date
+                                </th>
+
+
+                                <th style="width: 20%">
+                                    Status
+                                </th>
+                                <th style="width: 20%">
+                                    action
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @{ int i = 0;
+                                foreach (DisplayPrescriptionViewModel x in Model)
+                                {
+                                    i++;
+                                    <tr>
+                                        <td>
+
+                                            <h6>@i</h6>
+                                        </td>
+                                        <td>
+                                            <a>
+                                                Dr. @x.Doctor.DoctorSurname
+                                            </a>
+                                            <br />
+
+                                        </td>
+                                        <td>
+
+                                            <a>
+                                                @x.Prescription.Date.ToShortDateString()
+                                            </a>
+                                        </td>
+                                        <td>
+
+                                            <a>
+                                                @x.Prescription.Status
+                                            </a>
+                                        </td>
+
+                                        <td class="project-actions ">
+                                            <a class="btn btn-info btn-sm" asp-controller="Prescription" asp-action="ListPrescriptionMedicationForPharm" asp-route-id="@x.Prescription.ID">
+                                                <i class="fas fa-box-open">
+                                                </i>
+                                                dispense
+                                            </a>
+
+                                            <a class="btn btn-danger" asp-controller="admin" asp-action="DeleteMedication" asp-route-id="@x.Prescription.ID" onclick="return confirm('Are you sure you want to reject prescription?');">
+                                                <i class="fas fa-trash">
+                                                </i>
+                                                reject
+                                            </a>
+                                        </td>
+                                    </tr>
+                                } }
+
+
+
+
+
+
+                    </table>
+                </div>
+
+                <!-- /.card-body -->
+            </div> <a class="btn btn-info btn-sm" asp-controller="admin" asp-action="dashboard">
+                <i class="fas btn-default">
+                </i>
+                Back
+            </a>
+        </form>
+        <!-- /.card -->
+    </section>
+    <!-- /.content -->
+</div>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+@*@await Html.PartialAsync("_notificationPartial")*@
+
+@await Html.PartialAsync("_notificationPartial")

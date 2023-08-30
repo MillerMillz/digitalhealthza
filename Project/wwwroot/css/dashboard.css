@@ -1,0 +1,73 @@
+﻿element.style {
+}
+
+.section--bsides-cards, .tiles--large, .tiles--medium, .tiles--small {
+    margin-bottom: 1.5rem;
+}
+
+.section--shaded {
+    position: relative;
+    overflow: hidden;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.section {
+    max-width: 100vw;
+    overflow: hidden;
+}
+
+@media (min-width: 420px) .section {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.section {
+    position: relative;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+section {
+    display: block;
+}
+
+@media (max-width: 719px) body {
+    font-size: .875rem;
+}
+
+body {
+    margin: 0;
+    font-size: 1rem;
+}
+
+@supports (font-variation-settings:normal) html {
+    font-family: Inter var,helvetica,arial,sans-serif;
+}
+
+html {
+    font-size: 100%;
+    font-family: Inter,helvetica,arial,sans-serif;
+    line-height: 1.6;
+    color: #0d121f;
+    margin: 0;
+}
+
+.section--shaded:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: calc(50% - 590px - 6.25rem);
+    width: calc(1180px + 12.5rem);
+    height: 100%;
+    border-radius: 0;
+    background-color: #e9f7fc;
+    z-index: -1;
+}

@@ -1,0 +1,1021 @@
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\millz\Desktop\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\about-us.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\contact-us.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\faqs.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\dashboardLayout.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacy.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPractice.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addDoctor.cshtml.g.cs
+C:\Users\S4\Downloads\Project\Project\Adv Dip Project\Adv Dip Project\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmasist.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\about-us.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addActiveIngredient.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addCondition.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addContraIndication.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addDoctor.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addMedication.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacist.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacy.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPractice.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addUser.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetActiveIngredientEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllActiveIngredient.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllCondition.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllDoctor.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllMedication.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacist.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacy.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPractice.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetConditionEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetDoctorEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMedicationEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacistEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacyEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPracticeEdit.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\profile.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewActiveIngredient.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewCondition.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewDoctor.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewMedication.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacist.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacy.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPractice.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\blog.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\contact-us.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\cyberSecurity.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddAllergies.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddConditions.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddMedToPrescription.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddPrescription.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Allergies.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListAllergies.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListConditions.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedsTakin.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\PatientDetails.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\faqs.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\editProfile.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewProfile.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\editProfile.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\profile.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUserInRole.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\NotFound.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\dashboardLayout.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMil.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\S4\Music\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\S4\Music\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\s216573718\Desktop\project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\about-us.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addActiveIngredient.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addCondition.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addContraIndication.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addDoctor.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addMedication.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacist.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPractice.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addUser.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetActiveIngredientEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllActiveIngredient.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllCondition.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllDoctor.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllMedication.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacist.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPractice.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetConditionEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetDoctorEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMedicationEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacistEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacyEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPracticeEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\profile.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewActiveIngredient.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewCondition.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewDoctor.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewMedication.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacist.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPractice.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\blog.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\contact-us.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\cyberSecurity.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddAllergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddConditions.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddMedToPrescription.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddPrescription.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Allergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListAllergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListConditions.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedsTakin.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\PatientDetails.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\faqs.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\editProfile.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewProfile.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\editProfile.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\profile.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUserInRole.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\NotFound.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\dashboardLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMil.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\s216573718\Desktop\project\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\Landing.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\about-us.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addActiveIngredient.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addCondition.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addContraIndication.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addDoctor.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addMedication.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacist.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacy.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPractice.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addUser.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetActiveIngredientEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllActiveIngredient.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllCondition.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllDoctor.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllMedication.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacist.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacy.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPractice.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetConditionEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetDoctorEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMedicationEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacistEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacyEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPracticeEdit.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\profile.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewActiveIngredient.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewCondition.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewDoctor.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewMedication.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacist.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacy.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPractice.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\blog.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\contact-us.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\cyberSecurity.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddAllergies.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddConditions.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddMedToPrescription.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddPrescription.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Allergies.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListAllergies.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListConditions.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedsTakin.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\PatientDetails.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\faqs.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\editProfile.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewProfile.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\editProfile.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\profile.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\Landing.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUserInRole.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\NotFound.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\dashboardLayout.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMil.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListAllergies.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListConditions.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\PatientDetails.cshtml.g.cs
+C:\Users\millz\Desktop\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PharmacistLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\about-us.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addActiveIngredient.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addCondition.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addContraIndication.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addDoctor.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addMedication.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacist.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPractice.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addUser.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetActiveIngredientEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllActiveIngredient.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllCondition.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllDoctor.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllMedication.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacist.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPractice.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetConditionEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetDoctorEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMedicationEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacistEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacyEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPracticeEdit.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\profile.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewActiveIngredient.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewCondition.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewDoctor.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewMedication.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacist.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPractice.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\blog.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\contact-us.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\cyberSecurity.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddAllergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddConditions.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddMedToPrescription.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddPrescription.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Allergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListAllergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListConditions.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedsTakin.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\PatientDetails.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\faqs.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\editProfile.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewProfile.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\editProfile.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\profile.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\Landing.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListAllergies.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListConditions.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\PatientDetails.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUserInRole.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\NotFound.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\dashboardLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PharmacistLayout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMil.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\s216573718\Desktop\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\web.config
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\about-us.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addActiveIngredient.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addCondition.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addContraIndication.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addDoctor.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addMedication.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacist.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPharmacy.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addPractice.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\addUser.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Dashboard.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetActiveIngredientEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllActiveIngredient.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllCondition.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllDoctor.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllMedication.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacist.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPharmacy.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllPractice.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetConditionEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetDoctorEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetMedicationEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacistEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPharmacyEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetPracticeEdit.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\profile.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewActiveIngredient.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewCondition.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewDoctor.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewMedication.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacist.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPharmacy.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewPractice.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\blog.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\contact-us.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\cyberSecurity.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddAllergies.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddConditions.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddMedToPrescription.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\AddPrescription.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Allergies.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Dummy.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Landing.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListAllergies.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListConditions.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedHistory.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\MedsTakin.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\PatientDetails.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\DoctorsDashboard\Reason.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\faqs.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\editProfile.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Support.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewProfile.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\BookAppointment.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Dashboard.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\editProfile.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\profile.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Patient\Register.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\Landing.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListAllergies.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListConditions.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListPrescriptionMeds.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\ListPrescriptions.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\PatientDetails.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\PharmacistDashboard\Reason.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUserInRole.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\NotFound.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\dashboardLayout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DoctorsLayout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PharmacistLayout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMil.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_notificationPartial.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\millz\Desktop\container\Pack\project 04\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig

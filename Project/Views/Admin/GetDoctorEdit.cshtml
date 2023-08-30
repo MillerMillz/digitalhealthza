@@ -1,0 +1,140 @@
+﻿
+@model Project.Models.Doctor
+@{
+    ViewData["Title"] = Model != null ? "EditDoctor" : "AddDoctor";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+<form asp-controller="admin" asp-action="@ViewData["Title"]" method="post">
+
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Update Doctor's Details</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a asp-controller="Admin" asp-action="Dashboard">Home</a></li>
+                        <li class="breadcrumb-item active">Update Doctor's Details</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <section class="content">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card card-primary">
+                    
+
+                    <input type="hidden" asp-for="DoctorID" />
+                    <div class="card-body">
+
+                        <div class="form-group">
+                            <label asp-for="Title">Tittle</label>
+                            <div class="form-select">
+                                <select name="title" id="title">
+                                    <option value="">   </option>
+                                    <option value="ms">Ms</option>
+                                    <option value="mrs">Mrs</option>
+                                    <option value="mr">Mr</option>
+                                    <option value="dr">Dr</option>
+                                </select>
+                                <span asp-validation-for="DoctorName" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="DoctorName">First Name</label>
+                            <input type="text" asp-for="DoctorName" id="inputName" class="form-control">
+                            <span asp-validation-for="DoctorName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="DoctorSurname">Last Name</label>
+                            <input type="text" asp-for="DoctorSurname" id="inputName" class="form-control">
+                            <span asp-validation-for="DoctorSurname" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label asp-for="Gender">Gender</label>
+                            <div class="form-select">
+                                <select name="gender" id="gender">
+                                    <option value="">   </option>
+                                    <option value="Female">Female</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Trans Female">Trans Female</option>
+                                    <option value="Trans Male">Trans Male</option>
+                                    <option value="Agender">Agender</option>
+                                    <option value="Pangender">Pangender</option>
+                                    <option value="Non-binary">Non-binary</option>
+                                    <option value="Intersex">Intersex</option>
+                                    <option value="Prefer not to say">Prefer not to say</option>
+                                </select>
+                                <span asp-validation-for="DoctorName" class="text-danger"></span>
+                            </div>
+                        </div>
+
+
+                      
+                        <div class="form-group">
+                            <label asp-for="HighestQualificationID">Highest Qualification</label>
+                            <input required type="text" asp-for="HighestQualificationID" id="lastName" class="form-control">
+                            <span asp-validation-for="HighestQualificationID" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="MedPracticeID">MedPracticeID</label>
+                            <input required asp-for="MedPracticeID" type="email" id="email" class="form-control">
+                            <span asp-validation-for="MedPracticeID" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="HCRegNo">Health Council Registration Number</label>
+                            <input required asp-for="HCRegNo" type="email" id="email" class="form-control">
+                            <span asp-validation-for="HCRegNo" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <div class="col-md-6">
+                <div class="card card-secondary">
+                    <div class="card-header">
+                        <h3 class="card-title"></h3>
+
+                        <div class="card-tools">
+                            <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+
+
+                    <div class="card-body">
+
+                      
+
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="btn btn-info btn-sm" asp-controller="admin" asp-action="getalldoctor">
+                    <i class="fas btn-default">
+                    </i>
+                    Back
+                </a>
+                <input type="submit" value="Update Manager" class="btn btn-success float-right">
+            </div>
+        </div>
+    </section>
+
+</form>

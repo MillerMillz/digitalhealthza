@@ -1,0 +1,152 @@
+﻿
+@model MedActive  
+@{
+    ViewData["Title"] = "AddMedication";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+<form asp-controller="Admin" >
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Add Medication</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a asp-controller="Admin" asp-action="Dashboard">Home</a></li>
+                        <li class="breadcrumb-item active"> Add Medication</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <section class="content" style=" padding-left: 16px; padding-right: 16px;">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card card-primary">
+                    
+                    <div class="card-body">
+
+
+                        <div class="form-group">
+                            <label asp-for="Medication.MedicationName">Medication Name</label>
+                            <input required asp-for="Medication.MedicationName " type="text" id="inputClientCompany" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Medication.ScheduleID ">Schedule</label>
+                            <input required asp-for="Medication.ScheduleID " type="text" id="inputClientCompany" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Medication.FormID ">Dosage Form</label>
+                            <div class="form-select">
+                                <select required name="gender" id="gender" class="form-control">
+                                    <option value="0">   </option>
+                                    <option value="1">Female</option>
+                                    <option value="2">Male</option>
+                                    <option value="3 Female">Trans Female</option>
+                                  
+                                </select>
+                                <span asp-validation-for="Medication.FormID" class="text-danger"></span>
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+                            <label >Active Ingredient</label>
+                            <div class="form-select">
+                                <div class="col-md-6" style=" float:left">
+                                    <fieldset>
+                                        @*<legend>Active Ingredient</legend>*@
+                                        <div class="form-group">
+
+                                            @{
+                                                if (Model.ActiveIngredients != null)
+                                                {
+
+                                                    foreach (ActiveIngredient active in Model.ActiveIngredients)
+                                                    {
+
+                                                        <p>* @active.ActiveIngredientName </p>
+
+                                                    }
+                                                }
+                                            }
+                                        </div>
+                                        <!--/.form-group-->
+                                    </fieldset>
+                                </div>
+                                <!--/.col -->
+
+
+
+
+                               
+                                    @{
+                                        if (Model.ActiveIngredients != null)
+                                        {
+                                            int i = 0;
+                                            foreach (ActiveIngredient  med in Model.ActiveIngredients)
+                                            {
+
+                                                <input type="hidden" asp-for="@Model.ActiveIngredients[i].Deleted" />
+                                                <input type="hidden" asp-for="@Model.ActiveIngredients[i].ActiveIngredientName" />
+                                                <input type="hidden" asp-for="@Model.ActiveIngredients[i].ID" />
+                                              
+
+                                                i++;
+                                            }
+                                        }
+                                    }
+
+                                    <select class="form-control " asp-for="ID" asp-items="@(new SelectList(ViewBag.ActiveIngredients,"ID","ActiveIngredientName"))">
+                                    </select>
+                                    <button type="submit" formmethod="get" asp-action="ActiveIngredientFilter" class="btn btn-primary ">Add</button>
+                                    <button type="submit" formmethod="post" asp-action="AddMedication" class="btn btn-primary ">Submit</button>
+                            </div>
+                        </div>
+                        @*<div class="form-group">
+                            <label asp-for="Strength ">Strength</label>
+                            <input required asp-for="Strength " type="text" id="inputClientCompany" class="form-control">
+                        </div>*@
+                       
+
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <div class="col-md-6">
+                <div class="card card-secondary">
+
+                    <div>
+                        <img src="~/AdminLTE-3.0.2/dist/img/NMB Logo.png" />
+                    </div>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+        </div>
+        
+        <div class="row">
+            <div class="col-12">
+                <a class="btn btn-info btn-sm" asp-controller="admin" asp-action="getallmedication">
+                    <i class="fas btn-default">
+                    </i>
+                    Back
+                </a>
+                <button type="submit" value="Add new Creche" class="btn btn-success float-right">Add New Medication</button>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+</form>
+
+

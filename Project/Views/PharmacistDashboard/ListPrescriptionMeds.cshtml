@@ -1,0 +1,183 @@
+﻿@model List<MedicationViewModel>;
+@{
+    Layout = "PharmacistLayout";
+}
+
+
+<div>
+    <form method="post" asp-action="Submit" asp-controller="Dispense">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1>Dispense Medication</h1>
+                    </div>
+                    <div class="col-sm-6">
+
+                    </div>
+                </div>
+            </div><!-- /.container-fluid -->
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+            <div class="card">
+                <div class="card-header">
+
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+
+                    <table class="table table-striped projects">
+                        <thead>
+                            <tr>
+                                <th style="width: 1%">
+
+                                </th>
+                                <th style="width: 20%">
+                                    Medication Name
+                                </th>
+                                <th style="width: 20%">
+                                    Instruction
+                                </th>
+
+
+                                <th style="width: 20%">
+                                    Quantity
+                                </th>
+                                <th style="width: 20%">
+                                    Repeats
+                                </th>
+                                <th style="width: 20%">
+                                    Active ingredients
+                                </th>
+
+
+                                <th style="width: 20%">
+                                    Dispence
+                                </th>
+                                <th style="width: 20%">
+                                    Action
+                                </th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @{ int i = 0; int c = 0;
+                                foreach (MedicationViewModel x in Model)
+                                {
+                                    i++;
+
+                                    <tr>
+                                        <td>
+
+                                            <input type="hidden" asp-for="@Model[c].Instruction" />
+                                            <input type="hidden" asp-for="@Model[c].LineID" />
+                                            <input type="hidden" asp-for="@Model[c].MedicationID" />
+                                            <input type="hidden" asp-for="@Model[c].MedicationName" />
+                                            <input type="hidden" asp-for="@Model[c].Qty" />
+                                            <input type="hidden" asp-for="@Model[c].repeats" />
+                                            <input type="hidden" asp-for="@Model[c].repeatsLeft" />
+                                            @{ for (int r = 0; r < x.ActiveIngredients.Count; r++)
+                                                {
+                                                    <input type="hidden" asp-for="@Model[c].ActiveIngredients[r].ActiveIngredient.ActiveIngredientName" />
+                                                    <input type="hidden" asp-for="@Model[c].ActiveIngredients[r].ActiveIngredient.ID" />
+                                                    <input type="hidden" asp-for="@Model[c].ActiveIngredients[r].ActiveIngredient.Deleted" />
+                                                    <input type="hidden" asp-for="@Model[c].ActiveIngredients[r].Strength.TheStrength" />
+                                                    <input type="hidden" asp-for="@Model[c].ActiveIngredients[r].Strength.ID" />
+                                                    <input type="hidden" asp-for="@Model[c].ActiveIngredients[r].Strength.Deleted" />
+
+                                                }}
+
+
+
+                                            <h6>@i</h6>
+                                        </td>
+                                        <td>
+                                            <a>
+                                                @x.MedicationName
+                                            </a>
+                                            <br />
+
+                                        </td>
+                                        <td>
+
+                                            <a>
+                                                @x.Instruction
+                                            </a>
+                                        </td>
+                                        <td>
+
+                                            <a>
+                                                @x.Qty
+                                            </a>
+                                        </td>
+                                        <td>
+
+                                            <a>
+                                                @x.repeatsLeft/@x.repeats
+                                            </a>
+                                        </td>
+                                        <td>
+                                            @{ foreach (var r in x.ActiveIngredients)
+                                                {
+                                                    <a>
+                                                        @r.ActiveIngredient.ActiveIngredientName (@r.Strength.TheStrength)
+                                                    </a>
+
+                                                }
+                                            }
+
+                                        </td>
+                                        <td>
+                                            @if (x.repeatsLeft > 0)
+                                            {
+                                                <input class="form-check" asp-for="@Model[c].Dispense" />}
+                                            else
+                                            {
+
+                                                <input class="form-check" disabled asp-for="@x.Dispense" />
+                                            }
+
+                                        </td>
+                                        <td class="project-actions">
+                                            <a class="btn btn-danger" asp-controller="admin" asp-action="DeleteMedication" asp-route-id="@x.LineID" onclick="return confirm('Are you sure you want to reject prescription?');">
+                                                <i class="fas fa-trash">
+                                                </i>
+                                                reject
+                                            </a>
+                                        </td>
+                                    </tr>
+
+                                    c++;
+                                } }
+
+
+
+
+
+
+                    </table>
+                </div>
+
+                <!-- /.card-body -->
+            </div><div class="float-sm-right">
+                <button type="submit" class="btn btn-success">Dispence</button>
+            </div>
+            <a class="btn btn-primary" asp-controller="admin" asp-action="dashboard">
+
+                Back
+            </a>
+        </section>
+    </form>
+    <!-- /.content -->
+</div>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+@*@await Html.PartialAsync("_notificationPartial")*@
+
+@await Html.PartialAsync("_notificationPartial")

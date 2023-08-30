@@ -1,0 +1,135 @@
+﻿
+@model Project.Models.Pharmacist
+@{
+    ViewData["Title"] = Model != null ? "EditPharmacist" : "AddPharmacist";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+<form asp-controller="admin" asp-action="@ViewData["Title"]" method="post">
+
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Update Doctor's Details</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a asp-controller="Admin" asp-action="Dashboard">Home</a></li>
+                        <li class="breadcrumb-item active">Update Pharmacist's Details</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <section class="content">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card card-primary">
+                   
+
+                    <input type="hidden" asp-for="PharmacistID" />
+                    <div class="card-body">
+
+                        <div class="form-group">
+                            <label asp-for="Title">Tittle</label>
+                            <div class="form-select">
+                                <select name="title" id="title">
+                                    <option value="">   </option>
+                                    <option value="ms">Ms</option>
+                                    <option value="mrs">Mrs</option>
+                                    <option value="mr">Mr</option>
+                                    <option value="dr">Dr</option>
+                                </select>
+                                <span asp-validation-for="PharmacistName" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="PharmacistName">First Name</label>
+                            <input type="text" asp-for="PharmacistName" id="inputName" class="form-control">
+                            <span asp-validation-for="PharmacistName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PharmacistSurname">Last Name</label>
+                            <input type="text" asp-for="PharmacistSurname" id="inputName" class="form-control">
+                            <span asp-validation-for="PharmacistSurname" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label asp-for="Gender">Gender</label>
+                            <div class="form-select">
+                                <select name="gender" id="gender">
+                                    <option value="">   </option>
+                                    <option value="Female">Female</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Trans Female">Trans Female</option>
+                                    <option value="Trans Male">Trans Male</option>
+                                    <option value="Agender">Agender</option>
+                                    <option value="Pangender">Pangender</option>
+                                    <option value="Non-binary">Non-binary</option>
+                                    <option value="Intersex">Intersex</option>
+                                    <option value="Prefer not to say">Prefer not to say</option>
+                                </select>
+                                <span asp-validation-for="PharmacistName" class="text-danger"></span>
+                            </div>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label asp-for="RegNo">Highest Qualification</label>
+                            <input required type="text" asp-for="RegNo" id="lastName" class="form-control">
+                            <span asp-validation-for="RegNo" class="text-danger"></span>
+                        </div>
+                        
+
+                        <div class="form-group">
+                            <label asp-for="PharmacyID">Pharmacy Name</label>
+                            <input required asp-for="PharmacyID" type="email" id="email" class="form-control">
+                            <span asp-validation-for="PharmacyID" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <div class="col-md-6">
+                <div class="card card-secondary">
+                    <div class="card-header">
+                        <h3 class="card-title"></h3>
+
+                        <div class="card-tools">
+                            <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+
+
+                    <div class="card-body">
+
+
+
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="btn btn-info btn-sm" asp-controller="admin" asp-action="getallpharmacist">
+                    <i class="fas btn-default">
+                    </i>
+                    Back
+                </a>
+                <input type="submit" value="Update Pharmacist" class="btn btn-success float-right">
+            </div>
+        </div>
+    </section>
+
+</form>

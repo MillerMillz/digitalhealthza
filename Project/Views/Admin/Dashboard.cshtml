@@ -1,0 +1,255 @@
+﻿
+@{
+    ViewData["Title"] = "Admin";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+
+}
+
+
+
+
+
+<div>
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">Dashboard</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        @*<li class="breadcrumb-item"><a href="#">Home</a></li>*@
+                        <li class="breadcrumb-item active">Welcome to Dashboard </li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+
+    <div class="row text-center" style=" padding-left: 16px; padding-right: 16px;">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                   
+                        <div class="text-center">
+                            <div class="media">
+
+                                <div class="media-body align-self-center">
+                                    <div class="text-muted text-center">
+                                        <h4 class="text-center">Welcome to Admin dashboard</h4>
+                                        <h5 class="mb-1">Henry wells</h5>
+                                        <p class="mb-0"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    
+                    <!-- end row -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.content-header -->
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <!-- Small boxes (Stat box) -->
+            <div class="row">
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box ">
+                        <div class="inner">
+                            <h3>150</h3>
+
+                            <p>Pharmacy</p>
+                        </div>
+                        <div class="icon">
+                            <i class="nav-icon fas fa-clinic-medical"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box ">
+                        <div class="inner">
+                            <h3>53<sup style="font-size: 20px">%</sup></h3>
+
+                            <p>Practise</p>
+                        </div>
+                        <div class="icon">
+                            <i class="nav-icon fas fa-hospital"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box ">
+                        <div class="inner">
+                            <h3>44</h3>
+
+                            <p>Doctor</p>
+                        </div>
+                        <div class="icon">
+                            <i class="nav-icon fas fa-hospital-user"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box ">
+                        <div class="inner">
+                            <h3>65</h3>
+
+                            <p>Pharmacist</p>
+                        </div>
+                        <div class="icon">
+                            <i class="nav-icon fas fa-hospital-user"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+            </div>
+            <!-- /.row -->
+            <!-- Main row -->
+            <div class="row">
+                <!-- Left col -->
+                <section class="col-lg-8 connectedSortable">
+                    <!-- TO DO List -->
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title-to-do  ">My To-do list</h5>
+                            <form #addTodo="ngForm" (submit)="onSubmit()" [formGroup]="ToDoListForm">
+                                <div class="add-items d-flex">
+
+                                    <input type="text" class="form-control todo-list-input" name="todo" formControlName="listItem" placeholder="What do you need to do today?">
+                                    @*<button *ngIf="formMode=='add'" class="add btn btn-primary font-weight-bold todo-list-add-btn" type="submit">Add</button>
+        <button *ngIf="formMode=='edit'" class="add btn btn-primary font-weight-bold todo-list-add-btn" type="submit">Edit</button>*@
+                                    <div class=" clearfix">
+                                        <button type="button" class="btn btn-primary float-right"><i class="fas fa-plus"></i> Add</button>
+                                    </div>
+
+                                </div>
+                            </form><br />
+                            <div class="list-wrapper ">
+                                <ul class="todo-list" data-widget="todo-list">
+                                    <li>
+
+                                        <!-- checkbox -->
+                                        <div class="icheck-primary d-inline ml-2">
+                                            <input type="checkbox" value="" name="todo1" id="todoCheck1">
+                                            <label for="todoCheck1"></label>
+                                        </div>
+                                        <!-- todo text -->
+                                        <span class="text">Design a nice theme</span>
+                                        <!-- Emphasis label -->
+                                        <!-- General tools such as edit or delete-->
+                                        <div class="tools">
+                                            <div class="remove dropdown" ngbDropdown placement="bottom-right ">
+
+                                                <a href="javascript: void(0);" class="dropdown-toggle card-drop" data-toggle="dropdown"
+                                                   ngbDropdownToggle aria-expanded="false">
+                                                    <!-- <i class="remove mdi mdi-dots-horizontal font-size-18"> </i> -->
+                                                    <i class='fas fa-ellipsis-h font-size-18'></i>
+                                                </a>
+                                                <ul class="dropdown-menu dropdown-menu-end" ngbDropdownMenu>
+                                                    <li>
+                                                        <a class="dropdown-item" (click)="editToDo(items.id, items.title)">
+                                                            <i class="fas fa-pencil-alt text-success me-1"></i>
+                                                            Edit
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" (click)="removeFromTodo(i)">
+                                                            <i class="fas fa-trash-alt text-danger me-1"></i>
+                                                            Delete
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+
+                                        <div class="icheck-primary d-inline ml-2">
+                                            <input type="checkbox" value="" name="todo2" id="todoCheck2" checked>
+                                            <label for="todoCheck2"></label>
+                                        </div>
+                                        <span class="text">Make the theme responsive</span>
+                                        <div class="tools">
+                                            <i class="fas fa-edit"></i>
+                                            <i class="fas fa-trash-o"></i>
+                                        </div>
+                                    </li>
+                                    <li>
+
+                                        <div class="icheck-primary d-inline ml-2">
+                                            <input type="checkbox" value="" name="todo3" id="todoCheck3">
+                                            <label for="todoCheck3"></label>
+                                        </div>
+                                        <span class="text">Let theme shine like a star</span>
+                                        <div class="tools">
+                                            <i class="fas fa-edit"></i>
+                                            <i class="fas fa-trash-o"></i>
+                                        </div>
+                                    </li>
+                                    <li>
+
+                                        <div class="icheck-primary d-inline ml-2">
+                                            <input type="checkbox" value="" name="todo4" id="todoCheck4">
+                                            <label for="todoCheck4"></label>
+                                        </div>
+                                        <span class="text">Let theme shine like a star</span>
+                                        <div class="tools">
+                                            <i class="fas fa-edit"></i>
+                                            <i class="fas fa-trash-o"></i>
+                                        </div>
+                                    </li>
+                                    <li>
+
+                                        <div class="icheck-primary d-inline ml-2">
+                                            <input type="checkbox" value="" name="todo5" id="todoCheck5">
+                                            <label for="todoCheck5"></label>
+                                        </div>
+                                        <span class="text">Check your messages and notifications</span>
+                                        <div class="tools">
+                                            <i class="fas fa-edit"></i>
+                                            <i class="fas fa-trash-o"></i>
+                                        </div>
+                                    </li>
+                                    <li>
+
+                                        <div class="icheck-primary d-inline ml-2">
+                                            <input type="checkbox" value="" name="todo6" id="todoCheck6">
+                                            <label for="todoCheck6"></label>
+                                        </div>
+                                        <span class="text">Let theme shine like a star</span>
+
+                                        <div class="tools">
+                                            <i class="fas fa-edit"></i>
+                                            <i class="fas fa-trash-o"></i>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- /.card-body -->
+                            
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </div>
+    </section>
+   
+</div>

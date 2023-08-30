@@ -1,0 +1,84 @@
+﻿@model List<ActiveIngredient>;
+@{
+    Layout = "PharmacistLayout";
+}
+
+
+<div>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Patient Allergies</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Register</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Allergies</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="example2" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Active ingredient</th>
+                            <th>Remove</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{ for (int i = 0; i < Model.Count; i++)
+                            {
+
+                                <tr>
+
+
+
+                                    <td>
+
+
+
+                                        <label asp-for="@Model[i].ActiveIngredientName">@Model[i].ActiveIngredientName</label>
+                                    </td>
+
+
+                                    <td style="text-align:center">
+                                        <a class="btn btn-danger" asp-action="" asp-controller=""
+                                           asp-route-id="@Model[i].ID">Remove</a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+
+                    </tbody>
+
+                </table>
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+
+    </section>
+    <!-- /.content -->
+</div>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+@*@await Html.PartialAsync("_notificationPartial")*@
+
+@await Html.PartialAsync("_notificationPartial")

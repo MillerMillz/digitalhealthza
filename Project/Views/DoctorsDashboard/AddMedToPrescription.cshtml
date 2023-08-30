@@ -1,0 +1,80 @@
+﻿@model AddPrescriptionViewModel;
+@{
+    Layout = "DoctorsLayout";
+}
+
+
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Medication Details</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Register</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <form method="get" asp-controller="Prescription" asp-action="MedicationFiller">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"> @Model.Current.MedicationName </h3>
+            </div>
+            <input type="hidden" asp-for="@Model.Current.MedicationID" />
+            <input type="hidden" asp-for="@Model.Current.MedicationName" />
+
+            @{
+                if (Model.Medications != null)
+                {
+                    for (int i = 0; i < Model.Medications.Count; i++)
+                    {
+                        <input type="hidden" asp-for="@Model.Medications[i].repeats" />
+                        <input type="hidden" asp-for="@Model.Medications[i].Qty" />
+                        <input type="hidden" asp-for="@Model.Medications[i].repeatsLeft" />
+
+
+                        <input type="hidden" asp-for="@Model.Medications[i].MedicationID" />
+
+                        <input type="hidden" asp-for="@Model.Medications[i].MedicationName" />
+                        <input type="hidden" asp-for="@Model.Medications[i].Instruction" />
+
+
+                    }
+                }
+            }
+            <!-- /.card-header -->
+            <div class="card-body">
+                <label asp-for="@Model.Current.Instruction">Instructions</label>
+                <textarea class="form-control" asp-for="Current.Instruction" cols="8" rows="4"></textarea>
+
+                <label asp-for="@Model.Current.repeats">Repeats</label>
+                <input class="form-control" asp-for="Current.repeats" type="number">
+                <label asp-for="@Model.Current.Qty">Quantity</label>
+                <input class="form-control" asp-for="Current.Qty" type="number">
+
+
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <button class="btn btn-success" type="submit">submit</button>
+    </form>
+    <!-- /.card -->
+</section>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+@*@await Html.PartialAsync("_notificationPartial")*@
+
+@await Html.PartialAsync("_notificationPartial")
+<!-- /.content -->

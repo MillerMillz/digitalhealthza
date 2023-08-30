@@ -1,0 +1,534 @@
+﻿@model IEnumerable<Project.Models.ConditionDiagnosis>
+
+
+@{
+    ViewData["Title"] = "GetAllCondition";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-8">
+                <h1>Conditions</h1>
+            </div>
+            <div class="col-sm-4">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-controller="admin" asp-action="Dashboard"> Home</a></li>
+                    <li class="breadcrumb-item active">Conditions</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+
+<section class="content" style=" padding-left: 16px; padding-right: 16px;">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+
+                <!-- /.card-header -->
+
+
+                <div class="card-body">
+                    <!--<div class="row mb-2">
+                    <div class="col-sm-4">
+                        <div class="search-box me-2 mb-2 d-inline-block">
+                            <div class="position-relative">
+                                <input type="text" class="form-control" placeholder="Search..." [(ngModel)]="term" />
+                                <i class="bx bx-search-alt search-icon"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="text-sm-end">
+                            <button type="button" class="btn btn-success btn-rounded mb-2 mr-2" (click)="openModal(content)">
+                                <i class="mdi mdi-plus me-1"></i> New Job Tag
+                            </button>
+                        </div>
+                    </div>-->
+                    <!-- end col-->
+                    <!--</div>-->
+                    <a asp-controller="Admin" asp-action="AddCondition"> Add New Condition</a><br /><br />
+                    <table id="example2" class="table align-middle table-nowrap">
+                        <thead>
+                            <tr>
+                                <th style="width: 1%">
+
+                                </th>
+                                <th style="width: 20%">
+                                    ICD-10 Code
+                                </th>
+                                <th style="width: 20%">
+                                    Diagnosis
+                                </th>
+
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var condition in Model)
+                            {
+                                <tr>
+                                    <td>
+
+                                        <h6>@condition.ID</h6>
+                                    </td>
+                                    <td>
+
+                                        @condition.ICD10Code
+
+                                    </td>
+                                    <td>
+
+                                        @condition.DiagnosisName
+
+                                    </td>
+
+
+
+                                    <td class="project-actions ">
+                                        <div class="dropdown" ngbDropdown placement="bottom-right ">
+                                            <a class=" card-drop" data-toggle="dropdown"
+                                               ngbDropdownToggle aria-expanded="false">
+                                                <i class="fas fa-ellipsis-h" font-size-18"></i>
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-menu-end" ngbDropdownMenu>
+                                                <li>
+                                                    <a class="dropdown-item" asp-controller="admin" asp-action="ViewCondition" asp-route-id="@condition.ID">
+                                                        <i class="fas fa-eye text-success me-1"></i>
+                                                        View
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" asp-controller="admin" asp-action="getconditionedit" asp-route-id="@condition.ID">
+                                                        <i class="fas fa-pencil-alt text-success me-1"></i>
+                                                        Edit
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" asp-controller="admin" asp-action="DeleteCondition" asp-route-id="@condition.ID" onclick="return confirm('Are you sure you want to delete this program?');">
+                                                        <i class="fas fa-trash-alt text-danger me-1"></i>
+                                                        Delete
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+
+
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+
+                    </table>
+                    <br /><br />
+                    <div>
+                        <a class="btn btn-info btn-sm" asp-controller="admin" asp-action="dashboard">
+                            <i class="fas btn-default">
+                            </i>
+                            Back
+                        </a>
+                    </div>
+                </div>
+
+                <!-- /.card-body -->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!--<div class="container-fluid">
+    <app-page-title title=" Profile" [breadcrumbItems]="breadCrumbItems"></app-page-title>
+
+    <div class="row">
+        <div class="col-xl-9 col-lg-8">
+            <div class="card">-->
+<!-- Nav tabs -->
+<!--<ul ngbNav #nav="ngbNav" class="nav-tabs nav-tabs-custom justify-content-center ">
+    <li [ngbNavItem]="1">
+
+        <ng-template ngbNavContent>
+            <div class="row justify-content-center">
+                <div class="col-xl-8">
+                    <div>
+                        <div class="row align-items-center">
+                            <div>
+                                <div>
+                                    <h5 class="mb-0 text-center">My Profile</h5>
+                                </div>
+                            </div>
+
+
+                        </div>-->
+<!-- end row -->
+<!--<hr class="mb-4">
+
+<div class="text-center">
+    <div class="row">
+        <div class="col-sm-4">
+            <div>
+                <p class="text-muted mb-2">Department:</p>
+                <h5 class="font-size-15 bx bx-purchase-tag-at">HR</h5>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="mt-4 mt-sm-0">
+                <p class="text-muted mb-2">Job Title:</p>
+                <h5 class="font-size-15 bx bx-location">Talent Acquisition Coordinator</h5>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="mt-4 mt-sm-0">
+                <p class="text-muted mb-2 ">Reports To:</p>
+                <h5 class="font-size-15 bx bx-purchase-time">Andrew White</h5>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<hr>
+<div class="row">
+    <div>
+        <div class=" text-center">
+
+            <img src="assets/images/avatar-1.jpg" alt="" class="img-thumbnail">-->
+<!-- <div class="position-relative">
+
+</div> -->
+<!--<div class="p-2">
+                <h5><a routerLink="/blog/detail" class="text-dark ">Henry Wells</a></h5>
+
+            </div>
+
+        </div>
+    </div>
+
+
+</div>
+
+<hr>
+<div class="mt-4">
+    <div class="text-muted ">
+        <h5 class="mb-3 text-center">About Me </h5>
+        <p>As a central contact person, you will form the interface between IT departments of the individual internationally operating corporate groups. You will support our internal IT departments during the requirements gathering and detailing process up to project maturity. The main tasks include the collection of new project ideas, their examination and evaluation with regard to existing or ongoing projects.</p>
+
+
+    </div>
+</div>-->
+<!-- <hr > -->
+<!-- <div class="mt-4">
+    <div class="text-muted ">
+        <h5 class="mb-3 text-center">Leave Cycle Details</h5>
+        <div class="row py-3 px-2">
+            <div class="col-sm-6 ">
+                <div >
+
+                    <h6 class="text-muted mb-0">Cycle 1 (01 Jul, 2022-Today)</h6>
+                    <div class="list-group list-group-flush py-3 px-2">
+
+                            <div class="list-group-item text-muted py-3 px-2">
+                                <div class="list-group-item text-muted ">
+
+                                        <div class="text-muted py-3 px-2">Sick Taken
+                                            <span class=" float-end font-size-12">0.00</span>
+                                        </div>
+                                        <div class="text-muted py-3 px-2">Sick Balance
+                                            <span class=" float-end font-size-12">30.00</span>
+                                        </div>
+
+                                </div>
+                            </div>
+
+                            <div class="list-group-item text-muted py-3 px-2">
+                                <div class="list-group-item text-muted ">
+
+                                        <div class="text-muted py-3 px-2">Annual Due
+                                            <span class=" float-end font-size-12">2.58</span>
+                                        </div>
+
+
+                                </div>
+                                <div class="list-group-item text-muted ">
+
+                                    <div class="text-muted py-3 px-2">
+                                        Prev Annual Balance
+                                        <span class=" float-end font-size-12">0.00</span>
+                                    </div>
+
+
+                            </div>
+                            <div class="list-group-item text-muted ">
+
+                                <div class="text-muted py-3 px-2">Total Annual Balance
+                                    <span class=" float-end font-size-12">2.58</span>
+                                </div>
+
+
+                        </div>
+                            </div>
+
+
+                            <div class="text-muted py-3 px-2">Sick Taken
+                                <span class=" float-end font-size-12">0.00</span>
+                            </div>
+                            <div class="text-muted py-3 px-2">Sick Balance
+                                <span class=" float-end font-size-12">30.00</span>
+                            </div>
+
+
+
+                            <ul class="list-unstyled fw-medium ">
+
+                                <li>
+                                    <div class="list-group-item text-muted py-3 px-2">Annual Due
+                                    <span class="float-end font-size-12">2.58</span>
+                                </div>
+                                </li>
+                                <li><a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">Prev Annual Balance
+                                    <span class=" float-end ms-1 font-size-12">0.00</span></a>
+                                </li>
+                                <li><a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">Total Annual Balance
+                                    <span class=" float-end font-size-12">2.58</span></a>
+                                </li>
+
+                            </ul>
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                <div class="card p-1 border shadow-none">
+                    <div class="p-3">
+                        <h5><a routerLink="/blog/detail" class="text-dark">Project discussion with team</a></h5>
+                        <p class="text-muted mb-0">24 Mar, 2020</p>
+                    </div>
+
+                    <div class="position-relative">
+                        <img src="assets/images/small/img-2.jpg" alt="" class="img-thumbnail">
+
+                    </div>
+
+                    <div class="p-3">
+                        <ul class="list-inline">
+                            <li class="list-inline-item me-5">
+                                <a href="javascript: void(0);" class="text-muted">
+                                    <i class="bx bx-purchase-tag-alt align-middle text-muted me-1"></i> Development
+                                </a>
+                            </li>
+                            <li class="list-inline-item me-3">
+                                <a href="javascript: void(0);" class="text-muted">
+                                    <i class="bx bx-comment-dots align-middle text-muted me-1"></i> 08 Comments
+                                </a>
+                            </li>
+                        </ul>
+
+                        <p>Sed ut perspiciatis unde omnis iste eaque natus error sit</p>
+
+                        <div>
+                            <a href="javascript: void(0);" class="text-primary">Read more <i class="mdi mdi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div> -->
+<!-- <hr>
+<div class="row py-3 px-3">
+    <h5 class="mb-3 text-center">My Socials</h5>
+
+    <div class="col-sm-6">
+        <div class="card border shadow-none">
+            <div class="p-3">
+                <h5><a routerLink="/blog/detail" class="text-dark">Cooking & Baking</a></h5>
+
+            </div>
+
+            <div class="position-relative">
+                <img src="assets/images/baking.jpg" alt="" class="img-thumbnail">
+
+            </div>
+
+            <div class="p-3">
+
+
+                <p class="text-muted me-1"> Leader : Alex Niekerk</p>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6">
+        <div class="card border shadow-none">
+            <div class="p-3">
+                <h5><a routerLink="/blog/detail" class="text-dark">Wine Tasting</a></h5>
+
+            </div>
+
+            <div class="position-relative">
+                <img src="assets/images/wine tasting.jpg" alt="" class="img-thumbnail">
+
+            </div>
+
+            <div class="p-3">
+
+
+                <p class="text-muted me-1"> Leader : Alex Niekerk</p>
+
+            </div>
+        </div>
+    </div>
+</div> -->
+<!--</div>
+                        </div>
+                    </div>
+                </ng-template>
+            </li>
+
+        </ul>
+        <div [ngbNavOutlet]="nav" class="p-4"></div>
+    </div>
+</div>
+
+<div class="col-xl-3 col-lg-4">
+    <div class="card">
+        <ngx-simplebar style="height: 725px;">
+            <div class="card-body p-4">-->
+<!-- <div class="search-box">
+    <p class="text-muted">Search</p>
+    <div class="position-relative">
+        <input type="text" class="form-control rounded bg-light border-light"
+            placeholder="Search...">
+        <i class="mdi mdi-magnify search-icon"></i>
+    </div>
+</div>
+
+<hr class="my-4"> -->
+<!--<div>
+
+                <p class="text-muted mb-2 ">Profile Infomation</p>
+
+
+                <div>
+                    <div>
+
+
+                        <div class="text-muted p-3 ">
+                            <p>Gender &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Female</p>
+                            <p>ID Number    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:9810140564258</p>
+                            <p>Phone No. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:068 568 2558</p>
+                            <p>Email        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:henry.wells@wirk.co.za</p>
+                            <p>Start Date        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:01 July 2022</p>
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <hr class="my-4">
+
+            <div>
+                <p class="text-muted mb-2">My Socials</p>
+
+                <div class="list-group list-group-flush">
+
+                    <a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">
+                        <div class="media align-items-center">
+                            <div class="me-3">
+                                <img src="assets/images/wine tasting.jpg" alt=""
+                                     class="avatar-md h-auto d-block rounded">
+                            </div>
+                            <div class="media-body overflow-hidden">
+                                <h5 class="font-size-13 text-truncate">Wine Tasting</h5>
+                                <p class="mb-0 text-truncate"> Leader : Alex Niekerk</p>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">
+                        <div class="media align-items-center">
+                            <div class="me-3">
+                                <img src="assets/images/hiking.jpg" alt=""
+                                     class="avatar-md h-auto d-block rounded">
+                            </div>
+                            <div class="media-body overflow-hidden">
+                                <h5 class="font-size-13 text-truncate">Hiking</h5>
+                                <p class="mb-0 text-truncate">Leader :Jessica Saunders</p>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">
+                        <div class="media align-items-center">
+                            <div class="me-3">
+                                <img src="assets/images/baking.jpg" alt=""
+                                     class="avatar-md h-auto d-block rounded">
+                            </div>
+                            <div class="media-body overflow-hidden">
+                                <h5 class="font-size-13 text-truncate">Cooking and Baking</h5>
+                                <p class="mb-0 text-truncate">Leader : TBD</p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">
+                        <div class="media align-items-center">
+                            <div class="me-3">
+                                <img src="assets/images/golf.jpg" alt=""
+                                     class="avatar-md h-auto d-block rounded">
+                            </div>
+                            <div class="media-body overflow-hidden">
+                                <h5 class="font-size-13 text-truncate">Golf</h5>
+                                <p class="mb-0 text-truncate">Leader : Gideon Smith</p>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="javascript: void(0);" class="list-group-item text-muted py-3 px-2">
+                        <div class="media align-items-center">
+                            <div class="me-3">
+                                <img src="assets/images/Archery.jpg" alt=""
+                                     class="avatar-md h-auto d-block rounded">
+                            </div>
+                            <div class="media-body overflow-hidden">
+                                <h5 class="font-size-13 text-truncate">Archery</h5>
+                                <p class="mb-0 text-truncate">Leader : Kylie van der Merwe</p>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+                <div class="text-success" style="text-align:right;">
+                    <a routerLink='/azure' style="color:rgb(110, 132, 255)">
+
+                        View More
+                    </a>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </ngx-simplebar>
+
+</div>-->
+<!-- end card -->
+<!--</div>
+</div>-->
+<!-- end row -->
+<!--</div>-->

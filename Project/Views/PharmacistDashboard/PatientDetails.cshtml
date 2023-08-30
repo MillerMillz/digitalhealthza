@@ -1,0 +1,96 @@
+﻿@model DisplayPatientViewModel;
+@{
+    Layout = "PharmacistLayout";
+}
+
+<script src="~/js/delete.js"></script>
+
+<div class="card-header">
+    <h3 class="card-title">@Model.Patient.PatientName     @Model.Patient.PatientSurname</h3>
+</div>
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Patient Details</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-controller="" asp-action="Dashboard">Home</a></li>
+                    <li class="breadcrumb-item active"> Patient Details</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+<section class="content" style=" padding-left: 16px; padding-right: 16px;">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card card-primary">
+
+                <div class="card-body">
+
+                    <label>Gender:</label>
+                    <p>@Model.Patient.Gender</p>
+                    <label>ID Number:</label>
+                    <p>@Model.Patient.IDNumber</p>
+                    <label>Email:</label>
+                    <p>@Model.Email</p>
+                    <label>Contact Number:</label>
+                    <p>@Model.Patient.ContactNo</p>
+
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+        </div>
+
+        <div class="col-md-6">
+            <div class="card card-primary">
+
+                <div class="card-body">
+
+                    <label>Address :</label>
+                    <p>@Model.Patient.AddressLine1</p>
+                    @{if (Model.Patient.AddressLine2 != null)
+                        {
+                            <p>@Model.Patient.AddressLine2</p> }}
+
+                    <p>@Model.Surburb.Name</p>
+                    <p>@Model.city.Name</p><span></span>
+                    <p>@Model.Province.Name</p>
+                </div>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+    @*@await Html.PartialAsync("_notificationPartial")*@
+
+    @await Html.PartialAsync("_notificationPartial")
+</section>
+
+
+@section Scripts{
+    <script type="text/javascript">
+
+    function openSuccessModal(strMessage) {
+        var myDiv = document.getElementById("MyModalSuccessAlertBody");
+        /*myDiv.innerHTML = strMessage;*/
+        myDiv.innerHTML = strMessage;
+        $('#myModalSuccess').modal('show');
+    }
+        $(document).ready(function () {
+            var msg =@TempData["SuccessMessage"];
+            if (msg)
+                openSuccessModal(msg);
+        });
+
+    </script>
+
+
+}

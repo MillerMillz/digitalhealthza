@@ -1,0 +1,44 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    @*<link href="~/css/Main.css" rel="stylesheet" />*@
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+        <div class="container">
+            <a class="navbar-brand" asp-action="LogIn" asp-controller="Account">
+
+                <img src="~/Medilab/assets/img/hero-bg.jpg" height="70" width="70"/>
+            </a>
+            <button type="button" class="navbar-toggler"  data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">
+                           <h1>Digital Health(Administrator)</h1>
+                        </a>
+                    </li>
+                   </ul>
+            </div>
+        </div>
+    </nav>
+
+  
+    <div class="container">
+        @RenderBody()
+    </div>
+</body>
+</html>
